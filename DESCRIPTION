@@ -2,8 +2,8 @@ Package: metadynminer3d
 Type: Package
 Title: Tools to Read, Analyze and Visualize Metadynamics 3D HILLS Files
         from 'Plumed'
-Version: 0.0.1
-Date: 2019-07-22
+Version: 0.0.2
+Date: 2022-04-14
 Authors@R: person("Vojtech", "Spiwok", email = "spiwokv@vscht.cz",
                   role = c("aut", "cre"),
                   comment = c(ORCID = "0000-0001-8108-2033"))
@@ -24,10 +24,10 @@ License: GPL-3
 RoxygenNote: 6.1.0
 Imports: Rcpp, misc3d
 Suggests: testthat
-URL: http://www.metadynamics.cz/metadynminer3d
+URL: https://metadynamics.cz/metadynminer3d/
 NeedsCompilation: yes
-Packaged: 2019-07-26 12:19:52 UTC; spiwokv
+Packaged: 2022-04-14 13:57:58 UTC; spiwokv
 Author: Vojtech Spiwok [aut, cre] (<https://orcid.org/0000-0001-8108-2033>)
 Maintainer: Vojtech Spiwok <spiwokv@vscht.cz>
 Repository: CRAN
-Date/Publication: 2019-07-28 11:10:04 UTC
+Date/Publication: 2022-04-14 14:32:34 UTC
